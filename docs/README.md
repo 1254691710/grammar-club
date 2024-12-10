@@ -3,8 +3,9 @@ home: true
 heroImage: /cover.png
 heroText: 语法俱乐部
 tagline: 旋元佑
-actionText: 开始学习 →
-actionLink: /content/Preface
+actions:
+  -  text: 开始学习 →
+     link: /content/Preface
 footer: 感谢
 ---
 
