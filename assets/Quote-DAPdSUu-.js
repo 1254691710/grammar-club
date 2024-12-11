@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as s,g as r}from"./app-BP-1QDiM.js";const a={props:{}},c={class:"quote_main"};function n(e,_,p,l,u,d){return t(),s("div",c,[r(e.$slots,"default")])}const i=o(a,[["render",n],["__file","Quote.vue"]]);export{i as default};

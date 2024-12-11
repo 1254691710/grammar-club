@@ -1,0 +1,1 @@
+import{_ as s,o,c as t,g as a}from"./app-BP-1QDiM.js";const r={},c={class:"card_main"};function n(e,_,d,l,f,i){return o(),t("div",c,[a(e.$slots,"default")])}const u=s(r,[["render",n],["__file","Card.vue"]]);export{u as default};

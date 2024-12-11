@@ -1,0 +1,1 @@
+import{_ as t,o,c as n,b as c}from"./app-BP-1QDiM.js";const a={props:{img:String}},r={class:"tense_main"},_=["src"];function i(e,l,s,d,f,m){return o(),n("div",r,[c("img",{src:e.$withBase(s.img),alt:"foo"},null,8,_)])}const u=t(a,[["render",i],["__file","Tense.vue"]]);export{u as default};
